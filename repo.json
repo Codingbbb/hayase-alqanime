@@ -1,6 +1,6 @@
 {
-  "name": "AlQanime Repository",
-  "description": "Repository untuk extension AlQanime - Anime Subtitle Indonesia",
+  "name": "AlQanime Extensions",
+  "description": "Anime Subtitle Indonesia",
   "manifestVersion": 1,
   "pluginLists": [
     "https://raw.githubusercontent.com/Codingbbb/hayase-alqanime/main/index.json"
