@@ -1,15 +1,8 @@
-[
-  {
-    "name": "AlQanime",
-    "description": "Nonton Anime Subtitle Indonesia dari AlQanime.net",
-    "version": 1,
-    "authors": ["Tohka"],
-    "status": 1,
-    "language": "id",
-    "iconUrl": "https://www.google.com/s2/favicons?domain=alqanime.net&sz=128",
-    "apiVersion": 1,
-    "repositoryUrl": "https://raw.githubusercontent.com/Codingbbb/hayase-alqanime/main/AlQanime.cs3",
-    "fileSize": 0,
-    "tvTypes": ["Anime", "AnimeMovie", "OVA"]
-  }
-]
+{
+  "name": "AlQanime Repository",
+  "description": "Repository untuk extension AlQanime - Anime Subtitle Indonesia",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/Codingbbb/hayase-alqanime/main/index.json"
+  ]
+}
